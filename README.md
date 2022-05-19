@@ -1,3 +1,3 @@
-# Fundamental-of-Programming-Java-
+# Monopoly-X-RPG
 
-The lab and exercise that I did for Java during my FOP classess
+A group project of creating a monopoly game using Java
